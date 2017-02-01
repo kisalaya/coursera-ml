@@ -1,0 +1,1 @@
+function h = hypothesis_multi(X, theta)  h = sum(X*theta);end

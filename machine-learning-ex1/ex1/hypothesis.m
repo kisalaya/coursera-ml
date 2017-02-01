@@ -1,0 +1,1 @@
+function h = hypothesis(x,t0,t1)  h = t0 + (t1*x);end
